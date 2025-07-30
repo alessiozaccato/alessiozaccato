@@ -2,7 +2,7 @@
 
 ### Benvenuto/a nel mio angolo di GitHub! 🚀
 
-Sono un/a **Web Developer** appassionato/a di creare esperienze digitali intuitive e performanti. Mi piace trasformare idee complesse in soluzioni web eleganti e funzionali. 💡
+Sono un **Web Developer** appassionato nel creare esperienze digitali intuitive e performanti. Mi piace trasformare idee complesse in soluzioni web eleganti e funzionali. 💡
 
 ### Le mie tecnologie preferite e gli strumenti che uso: 🛠️
 
