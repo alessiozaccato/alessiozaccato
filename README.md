@@ -1,16 +1,28 @@
-## Hi there 👋
+# Ciao! 👋 Sono Alessio Zaccato
 
-<!--
-**alessiozaccato/alessiozaccato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Benvenuto/a nel mio angolo di GitHub! 🚀
 
-Here are some ideas to get you started:
+Sono un/a **Web Developer** appassionato/a di creare esperienze digitali intuitive e performanti. Mi piace trasformare idee complesse in soluzioni web eleganti e funzionali. 💡
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Le mie tecnologie preferite e gli strumenti che uso: 🛠️
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,java,spring,bootstrap,git,github,vscode,docker,figma,mysql,vite,npm,windows)](https://skillicons.dev)
+
+---
+
+### Le mie statistiche GitHub: 📊
+
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=alessiozaccato&show_icons=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alessiozaccato&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### Connettiti con me! 🤝
+
+* **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alessio-zaccato-b41931363/)
+* **Portfolio/Sito Personale:** [![Website](https://img.shields.io/badge/Website-1572B6?style=for-the-badge&logo=globe&logoColor=white)](https://alessiozaccato.github.io)
+* **Email:** [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alessiozaccato@gmail.com)
+
+---
+
+Grazie per essere passato/a! ✨
