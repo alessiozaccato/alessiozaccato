@@ -6,7 +6,7 @@ Sono un **Web Developer** appassionato nel creare esperienze digitali intuitive 
 
 ### Le mie tecnologie preferite e gli strumenti che uso: 🛠️
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,java,spring,springboot,bootstrap,git,github,vscode,docker,figma,mysql,vite,npm,windows)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,java,spring,springBoot,bootstrap,git,github,vscode,docker,figma,mysql,vite,npm,windows)](https://skillicons.dev)
 
 ---
 
