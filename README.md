@@ -2,11 +2,11 @@
 
 ### Benvenuto/a nel mio angolo di GitHub! 🚀
 
-Sono un **Web Developer** appassionato nel creare esperienze digitali intuitive e performanti. Mi piace trasformare idee complesse in soluzioni web eleganti e funzionali. 💡
+Sono un **Web Developer** appassionato nel creare esperienze digitali intuitive e performanti, mi piace dare priorità alla funzionalità che . Mi piace trasformare idee complesse in soluzioni web eleganti e funzionali. 💡
 
 ### Le mie tecnologie preferite e gli strumenti che uso: 🛠️
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,java,spring,springBoot,bootstrap,git,github,vscode,docker,figma,mysql,vite,npm,windows)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,java,spring,bootstrap,git,github,vscode,docker,figma,mysql,vite,npm,windows)](https://skillicons.dev)
 
 ---
 
