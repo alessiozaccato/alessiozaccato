@@ -2,7 +2,7 @@
 
 ### Benvenuto/a nel mio angolo di GitHub! 🚀
 
-Sono un **Web Developer** appassionato nel creare esperienze digitali intuitive e performanti, mi piace dare priorità alla funzionalità di un solido back-end utilizzando Java quindi Sping, ma non mi dispiace a divertirmi a costruire il mio Front-end con JS utilizzando la potenza di React  . Mi piace trasformare idee complesse in soluzioni web eleganti e funzionali. 💡
+**Web Developer** appassionato nel creare esperienze digitali intuitive e performanti, mi piace dare priorità alla funzionalità di un solido back-end utilizzando Java quindi Sping, ma non mi dispiace a divertirmi a costruire il mio Front-end con JS utilizzando la potenza di React  . Mi piace trasformare idee complesse in soluzioni web eleganti e funzionali. 💡
 
 ### Le mie tecnologie preferite e gli strumenti che uso: 🛠️
 
