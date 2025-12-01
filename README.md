@@ -10,10 +10,10 @@
 
 ---
 
-//### Le mie statistiche GitHub: 📊
+``### Le mie statistiche GitHub: 📊``
 
-//[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=alessiozaccato&show_icons=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-//[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alessiozaccato&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+``[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=alessiozaccato&show_icons=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)``
+``[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alessiozaccato&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)``
 
 ---
 
